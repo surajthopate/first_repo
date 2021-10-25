@@ -1,2 +1,2 @@
 # first_repo
-jast repo
+jast repo for git command demostration
